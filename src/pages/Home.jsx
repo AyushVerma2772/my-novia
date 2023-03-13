@@ -13,6 +13,7 @@ const ChatWrapper = styled.div`
     color: snow;
     font-size: 1.8rem;
     background-color: #272A2A;
+    
 `;
 
 const Home = () => {

@@ -59,7 +59,6 @@ const Button = styled.button`
 const LoginCard = styled(SignUpCard)`
     background-color: #5c5c5c;
     position: absolute;
-    /* bottom: 0; */
     left: 0;
     z-index: 65;
     transition: all 0.4s linear;
